@@ -1,0 +1,9 @@
+a[href*="#1-desktop"]:lang(en),a[href*="#2-desktop"]:lang(en),a[href*="#3-desktop"]:lang(en),a[href*="#4-desktop"]:lang(en),a[href*="#5-desktop"]:lang(en),a[href*="#6-desktop"]:lang(en),a[href*="#7-desktop"]:lang(en){
+    display: none !important;
+}
+
+
+
+a[href*="#1-mobile"]:lang(en),a[href*="#2-mobile"]:lang(en),a[href*="#3-mobile"]:lang(en),a[href*="#4-mobile"]:lang(en),a[href*="#5-mobile"]:lang(en),a[href*="#6-mobile"]:lang(en),a[href*="#7-mobile"]:lang(en){
+    display: none !important;
+}
